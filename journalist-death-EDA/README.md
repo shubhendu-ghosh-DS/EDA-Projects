@@ -30,3 +30,9 @@ This dataset was created by Journalism, News, and Media and contains around 2000
 Local/ Foreign
 Unnamed: 20
 and more.
+
+
+
+
+
+[This](https://www.kaggle.com/shubhendughosh00/eda-of-journalist-deaths) is the link for its kaggle notebook
